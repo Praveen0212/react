@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aqua;
+    width: 600px;
+}
+.navbar li{
+    list-style: none;
+}
+.navbar li:hover{
+    color: crimson;
+}
